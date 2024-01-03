@@ -6,7 +6,8 @@ Viper's Shootout is a mini-shooting game written in Java using JavaFX.
 
 ## Instructions
 
-In this game, you control Viper, a character from the popular shooting game VALORANT, and your goal is to survive until the timer runs out. The game features movement controls for Viper, shooting mechanics, slimes as enemies, and a boss witch that appears after 30 seconds of gameplay. The goal is to SURVIVE until the timer runs out. DODGE or FIGHT! As Viper would say, *"If you lose focus, you die. Breathe when it's over."*
+In this game, you control Viper, a character from the popular shooting game VALORANT, and your goal is to survive until the timer runs out. The game features movement controls for Viper, shooting mechanics, slimes as enemies, and a boss witch that appears after 30 seconds of gameplay.
+The goal is to SURVIVE until the timer runs out. DODGE or FIGHT! As Viper would say, *"If you lose focus, you die. Breathe when it's over."*
 
 ## Game Controls
 
