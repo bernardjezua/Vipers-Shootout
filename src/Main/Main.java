@@ -7,7 +7,7 @@
 * Slimes will appear on the right side of the screen and move towards the left and back.
 * The Witch (boss) will appear when 30 seconds have elapsed in the game timer.
 *
-* @author Bernard Jezua R. Tandang
+* @author RebberChicken
 * @created_date 2023-08-04 00:50
 *
 ***********************************************************/
